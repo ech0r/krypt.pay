@@ -1,0 +1,19 @@
+{
+  "name": "krypt.pay",
+  "version": "1.0.0",
+  "description": "backend API to accept cryptocurrency payments",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ech0r/krypt.pay.git"
+  },
+  "author": "John Cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ech0r/krypt.pay/issues"
+  },
+  "homepage": "https://github.com/ech0r/krypt.pay#readme"
+}
